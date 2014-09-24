@@ -1,0 +1,16 @@
+::res://::1411102568
+firstScene.xml::PackedScene::1411448732::
+icon.png::ImageTexture::1392117714::
+::res://images::1410935010
+cyclopsStill.png::ImageTexture::1410928734::
+healthBarBack.png::ImageTexture::1411447596::
+healthBarFront.png::ImageTexture::1411447624::
+healthBarOver.png::ImageTexture::1411448002::
+map.png::ImageTexture::1410929634::
+playerAttack.png::ImageTexture::1410931124::
+playerStill.png::ImageTexture::1410931140::
+::res://scripts::1411102628
+fightMenuScript.res::GDScript::1411448746::
+fightMenuScript2.res::GDScript::1411448746::
+healthBar.res::GDScript::1411448746::
+playerFightScript.res::GDScript::1411448746::
